@@ -6,6 +6,15 @@
     
 <h2 align="center">Skills</h2><br>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://github.com/lupusgit)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Minhas Habilidades" />
+  </a>
 </div>
+<br>
 <h2 align="center">Skill Development</h2><br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="Minhas Habilidades" />
+  </a>
+</div>
+<br>
